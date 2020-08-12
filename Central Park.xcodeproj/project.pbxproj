@@ -56,13 +56,12 @@
 		63190E1924E3327100867FF1 /* Central Park */ = {
 			isa = PBXGroup;
 			children = (
+				63190E2D24E367E200867FF1 /* Supporting Views */,
 				63190E1A24E3327100867FF1 /* Central_ParkApp.swift */,
 				63190E1C24E3327100867FF1 /* ContentView.swift */,
 				63190E1E24E3327400867FF1 /* Assets.xcassets */,
 				63190E2324E3327400867FF1 /* Info.plist */,
 				63190E2024E3327400867FF1 /* Preview Content */,
-				63190E2924E332A500867FF1 /* CircleImage.swift */,
-				63190E2B24E3330000867FF1 /* MapView.swift */,
 			);
 			path = "Central Park";
 			sourceTree = "<group>";
@@ -73,6 +72,15 @@
 				63190E2124E3327400867FF1 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		63190E2D24E367E200867FF1 /* Supporting Views */ = {
+			isa = PBXGroup;
+			children = (
+				63190E2924E332A500867FF1 /* CircleImage.swift */,
+				63190E2B24E3330000867FF1 /* MapView.swift */,
+			);
+			path = "Supporting Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
